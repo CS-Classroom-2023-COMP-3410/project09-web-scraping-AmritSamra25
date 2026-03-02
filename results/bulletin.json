@@ -1,0 +1,48 @@
+{
+    "courses": [
+        {
+            "course": "COMP-3000",
+            "title": "Seminar: The Real World"
+        },
+        {
+            "course": "COMP-3009",
+            "title": "Essential Math for Data Science and AI"
+        },
+        {
+            "course": "COMP-3421",
+            "title": "and COMP 3432. COMP 3455 Shell Scripting and System Tools"
+        },
+        {
+            "course": "COMP-3491",
+            "title": "Applications of Generative AI"
+        },
+        {
+            "course": "COMP-3525",
+            "title": "Human Centered AI - Mind Reading Machines"
+        },
+        {
+            "course": "COMP-3701",
+            "title": "Topics in Computer Graphics"
+        },
+        {
+            "course": "COMP-3702",
+            "title": "Topics in Database"
+        },
+        {
+            "course": "COMP-3703",
+            "title": "Topics-Artificial Intelligence"
+        },
+        {
+            "course": "COMP-3704",
+            "title": "Advanced Topics: Systems"
+        },
+        {
+            "course": "COMP-3705",
+            "title": "Topics in Computer Science"
+        },
+        {
+            "course": "COMP-3995",
+            "title": "Independent Research"
+        }
+    ]
+}

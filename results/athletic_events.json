@@ -1,0 +1,89 @@
+{
+    "events": [
+        {
+            "duTeam": "Time",
+            "opponent": "Sport",
+            "date": ""
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 2",
+            "date": "Monday, March 2 3/2/2026"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 3",
+            "date": "Tuesday, March 3 3/3/2026"
+        },
+        {
+            "duTeam": "10 a.m. MT",
+            "opponent": "Women's Lacrosse",
+            "date": "Friday, March 6 3/6/2026"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "South Dakota",
+            "date": "Friday, March 6 3/6/2026 1:30 p.m. MT"
+        },
+        {
+            "duTeam": "7 p.m. MT",
+            "opponent": "Women's Gymnastics",
+            "date": "Friday, March 6 3/6/2026"
+        },
+        {
+            "duTeam": "7 p.m. MT",
+            "opponent": "Men's Ice Hockey",
+            "date": "Friday, March 6 3/6/2026"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "North Dakota",
+            "date": "Friday, March 6 3/6/2026 7:30 p.m. MT"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "Semifinals",
+            "date": "Saturday, March 7 3/7/2026 11 a.m. MT/1:30 p.m. MT"
+        },
+        {
+            "duTeam": "1 p.m. MT",
+            "opponent": "Women's Tennis",
+            "date": "Saturday, March 7 3/7/2026"
+        },
+        {
+            "duTeam": "6 p.m. MT",
+            "opponent": "Men's Ice Hockey",
+            "date": "Saturday, March 7 3/7/2026"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "Semifinals",
+            "date": "Saturday, March 7 3/7/2026 6 p.m. MT/8:30 p.m. MT"
+        },
+        {
+            "duTeam": "10 a.m. MT",
+            "opponent": "Women's Lacrosse",
+            "date": "Sunday, March 8 3/8/2026"
+        },
+        {
+            "duTeam": "2 p.m. MT",
+            "opponent": "Women's Basketball",
+            "date": "Sunday, March 8 3/8/2026"
+        },
+        {
+            "duTeam": "6 p.m. MT",
+            "opponent": "Men's Ice Hockey",
+            "date": "Sunday, March 8 3/8/2026"
+        },
+        {
+            "duTeam": "7 p.m. MT",
+            "opponent": "Men's Basketball",
+            "date": "Sunday, March 8 3/8/2026"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Air Force",
+            "date": "Monday, March 9 3/9/2026 5:45 p.m. MT"
+        }
+    ]
+}

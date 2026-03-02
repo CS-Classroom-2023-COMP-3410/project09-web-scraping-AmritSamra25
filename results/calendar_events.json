@@ -3,1020 +3,849 @@
         {
             "title": "New Hire Orientation",
             "date": "March 2",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 2 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Biology Weekly Seminar",
             "date": "March 16",
-            "time": "4:00pm - 5:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 16 4:00pm - 5:30pm Olin Hall, Room 105, Classroom March 9 4:00pm - 5:30pm Olin Hall, Room 105, Classroom March 2 4:00pm - 5:30pm Olin Hall, Room 105, Classroom February 23 4:00pm - 5:30pm Olin Hall, Room 105, Classroom February 16 4:00pm - 5:30pm Olin Hall, Room 105, Classroom February 9 4:00pm - 5:30pm Olin Hall, Room 105, Classroom February 2 4:00pm - 5:30pm Olin Hall, Room 105, Classroom January 26 4:00pm - 5:30pm Olin Hall, Room 105, Classroom January 19 4:00pm - 5:30pm Olin Hall, Room 105, Classroom January 12 4:00pm - 5:30pm Olin Hall, Room 105, Classroom January 5 4:00pm - 5:30pm Olin Hall, Room 105, Classroom"
+            "time": "4:00pm - 5:30pm"
         },
         {
             "title": "Native Student Alliance E-Board Meeting",
             "date": "March 30",
-            "time": "6:00pm - 8:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 30 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room March 23 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room March 16 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room March 9 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room March 2 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room February 23 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room February 16 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room February 9 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room February 2 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room January 26 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room January 12 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room January 5 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room November 10 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room November 3 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room October 27 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room October 20 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room October 13 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room October 6 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room September 29 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room September 22 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room September 15 6:00pm - 8:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room"
+            "time": "6:00pm - 8:00pm"
         },
         {
             "title": "DU Clarion Weekly Meeting",
             "date": "March 9",
-            "time": "6:00pm - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 9 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room March 2 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room February 23 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room February 16 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room February 9 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room January 26 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room January 19 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room January 12 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room January 5 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room"
+            "time": "6:00pm - 11:00pm"
         },
         {
             "title": "TAI FLC",
             "date": "March 3",
-            "time": "9:30am - 11:00am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 3 9:30am - 11:00am Anderson Academic Commons, Room 340, Loft Classroom"
+            "time": "9:30am - 11:00am"
         },
         {
             "title": "HRE Departmental Meeting",
             "date": "June 9",
-            "time": "10:30am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 9 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space June 2 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space May 26 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space May 19 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space May 12 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space May 5 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space April 28 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space April 21 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space April 14 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space April 7 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space March 31 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space March 24 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space March 17 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space March 10 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space March 3 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space February 24 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space February 17 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space February 10 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space February 3 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space January 27 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space January 20 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space January 13 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space January 6 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space December 30 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space December 23 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space December 16 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space December 9 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space December 2 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space November 25 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space November 18 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space November 11 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space October 21 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space October 14 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space October 7 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space September 30 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space September 23 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space September 16 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space September 9 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space September 2 10:30am - 12:00pm Dimond Family Residential Village, Room 195, Confluence Point Events Space"
+            "time": "10:30am - 12:00pm"
         },
         {
             "title": "CS Faculty Meetings",
             "date": "June 9",
-            "time": "12:00pm - 1:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 9 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab June 2 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab May 26 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab May 19 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab May 12 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab May 5 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab April 28 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab April 21 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab April 14 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab April 7 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab March 31 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab March 24 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab March 17 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab March 10 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab March 3 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab February 24 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab February 17 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab February 10 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab February 3 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab January 27 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab January 20 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab January 13 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab January 6 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab November 25 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab November 18 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab November 11 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab November 4 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab October 28 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab October 21 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab October 14 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab October 7 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab September 30 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab September 23 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab September 16 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab September 9 12:00pm - 1:30pm Engineering & Computer Science, Room 358, CS/Gaming Lab"
+            "time": "12:00pm - 1:30pm"
         },
         {
             "title": "MASA Meeting",
             "date": "May 6",
-            "time": "11:00am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 6 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 April 29 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 April 22 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 April 15 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 April 8 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 April 1 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 March 25 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 March 18 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 March 11 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 March 4 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 February 25 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 February 18 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 February 11 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 February 4 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 January 28 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 January 21 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 January 14 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 January 7 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 December 17 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 December 10 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 December 3 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 November 26 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 November 12 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 November 5 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 October 29 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 October 22 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 October 15 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 October 8 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 October 1 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 September 24 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121 September 17 11:00am - 12:00pm Katherine A. Ruffatto Hall, Room 121"
+            "time": "11:00am - 12:00pm"
         },
         {
             "title": "Lamont Symphony Orchestra & Choirs",
             "date": "March 4",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 4 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeFREE parking: Register hereThe Lamont Symphony Orchestra and Choirs join forces for their annual collaborative concert, presenting Brahms’ Ein deutsches Requiem. Conducted by Catherine Sailer, this masterwork offers solace and reflection through soaring melodies and lush orchestration. Performed by the full forces of Lamont’s talented vocalists and instrumentalists, the Requiem promises a powerful celebration of life, loss, and hope. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "STW Winter 2026",
             "date": "March 12",
-            "time": "6:00am - 7:00am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 12 6:00am - 7:00am JOY BURNS ICE ARENA March 5 6:00am - 7:00am JOY BURNS ICE ARENA February 26 6:00am - 7:00am JOY BURNS ICE ARENA February 19 6:00am - 7:00am JOY BURNS ICE ARENA February 12 6:00am - 7:00am JOY BURNS ICE ARENA February 5 6:00am - 7:00am JOY BURNS ICE ARENA January 29 6:00am - 7:00am JOY BURNS ICE ARENA January 22 6:00am - 7:00am JOY BURNS ICE ARENA January 15 6:00am - 7:00am JOY BURNS ICE ARENA January 8 6:00am - 7:00am JOY BURNS ICE ARENA"
+            "time": "6:00am - 7:00am"
         },
         {
             "title": "RSECS Executive and Leadership Meetings",
             "date": "July 30",
-            "time": "12:00pm - 1:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } July 30 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room July 23 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room July 16 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room July 9 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room July 2 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room June 25 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room June 18 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room June 11 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room June 4 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room May 28 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room May 21 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room May 14 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room May 7 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room April 30 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room April 23 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room April 16 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room April 9 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room April 2 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room March 26 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room March 19 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room March 12 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room March 5 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room February 26 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room February 19 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room February 12 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room February 5 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room January 29 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room January 22 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room January 15 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room January 8 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room December 18 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room December 11 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room December 4 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room November 27 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room November 13 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room November 6 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room October 30 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room October 23 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room October 16 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room October 9 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room October 2 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room"
+            "time": "12:00pm - 1:00pm"
         },
         {
             "title": "Into the Woods",
             "date": "March 8",
-            "time": "2:00pm - 4:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 8 2:00pm - 4:30pm March 7 7:30pm - 10:00pm March 6 7:30pm - 10:00pm March 5 7:30pm - 10:00pm February 28 7:30pm - 10:00pm February 27 7:30pm - 10:00pm February 26 7:30pm - 10:00pm Into the Woods takes us beyond \"happily ever after\" to ask: What do you do when you get what you wished for? In Stephen Sondheim's beloved musical, familiar fairy tale characters cross paths as their dreams come true-only to discover that life after the wish is far more complicated. Into the Woods explores the consequences of desire, the cost of choice, and the unexpected strength we find in each other when the story takes a darker turn. Music and lyrics by Stephen SondheimBook by James LapineDirected by Kelly Van OosbreePurchase tickets onlineVisitor parking is available in the Newman Center Garage, located off Wesley Ave. and University Blvd. The cost is $2/hour.Free street parking is also available in the neighborhood surrounding the Newman Center.There is no late seating."
+            "time": "2:00pm - 4:30pm"
         },
         {
             "title": "Wind Chamber Ensembles",
             "date": "March 5",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 5 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredLivestreamHear from Lamont's finest players in the flute, oboe, clarinet, bassoon, and saxophone studios. Under the direction of Martin Kuuskmann. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "CLUB Figure Skating Practice",
             "date": "March 6",
-            "time": "7:15am - 8:15am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 6 7:15am - 8:15am JOY BURNS ICE ARENA"
+            "time": "7:15am - 8:15am"
         },
         {
             "title": "2026 Senior History Conference",
             "date": "March 6",
-            "time": "9:00am - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 6 9:00am - 5:00pm Sturm Hall 454"
+            "time": "9:00am - 5:00pm"
         },
         {
             "title": "Masterclass: Nermis Mieses, oboe",
             "date": "March 6",
-            "time": "12:00pm - 1:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 6 12:00pm - 1:00pm Newman Center for the Performing Arts, Room 209, Classroom Free admission to observeThis event will not be livestreamedNermis Mieses is the Associate Professor of Oboe at Michigan State University and faculty at the Sewanee Summer Music Festival. She has received prizes at the prestigious Barbirolli International Oboe Competition, the First International Oboe Competition in Santa Catarina, Brazil, and the Matthew Ruggiero International Woodwind Competition.As part of her research interests, she continues to champion repertoire from the iconic French oboist-composer, Gilles Silvestrini, as well as music from underrepresented composers. She is frequently featured in universities, conservatories, chamber music series, and as a presenter at the IDRS conferences.Equally dedicated to ensemble playing, she spent nine seasons as Principal Oboe of the Michigan Opera Theatre and has collaborated with symphony orchestras such as Detroit, Ann Arbor, Sphinx, ProMusica Chamber, and the Michigan Philharmonic. Internationally, she has performed with Camerata Colonial in the Dominican Republic, the Puerto Rico Symphony Orchestra, the Thy Chamber Music Festival in Denmark, and the Chineke! Orchestra in Europe.Passionate about her oboe studio, Dr. Mieses is known for her nurturing, yet ambitious teaching style. Excited about mentoring, she guides her students to achieve healthy growth as learners, instrumentalists, musicians, and artists. Previously, she taught at Bowling Green State University, the University of Kentucky, Ohio Northern, and Hillsdale College. She holds DMA and MM degrees from the University of Michigan under Dr. Nancy Ambrose King, where she was conferred the 2020 Paul Boyland Award by the School of Music Theatre and Dance Alumni Society of Governors. She is a proud mother of two children and frequently performs with her husband, pianist Xavier Suarez. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "12:00pm - 1:00pm"
         },
         {
             "title": "Masterclass: Michael Tetreault, percussion",
             "date": "March 6",
-            "time": "1:00pm - 2:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 6 1:00pm - 2:30pm Newman Center for the Performing Arts, Room 130, Orchestra/Band Rehearsal Room Free admission to observeThis event will not be livestreamedMichael Tetreault is Head of Percussion and Teaching Assistant Professor at CU Boulder. He earned a BM from the Eastman School of Music in New York and an MMus from the Royal Academy of Music in London, United Kingdom. Tetreault is principal timpanist of the Central City Opera Orchestra, Boulder Chamber Orchestra and Fort Collins Symphony; principal percussionist of the Boulder Philharmonic and former assistant principal percussionist of the Colorado Springs Philharmonic. Read more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "1:00pm - 2:30pm"
         },
         {
             "title": "DU DAD Club",
             "date": "March 20",
-            "time": "5:00pm - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 20 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom March 13 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom March 6 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom February 27 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom February 20 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom February 13 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom February 6 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom January 30 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom January 23 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom January 16 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom January 9 5:00pm - 11:00pm Engineering & Computer Science, Room 200, Classroom"
+            "time": "5:00pm - 11:00pm"
         },
         {
             "title": "Undergraduate recital: Iris Hannon, voice",
             "date": "March 6",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 6 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeIris Hannon is a student of Catherine Kasch. She is pursuing a Bachelor of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Reed Knife Sharpening Workshop with Tom Blodgett",
             "date": "March 7",
-            "time": "10:00am - 11:30am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 7 10:00am - 11:30am Newman Center for the Performing Arts, Room 209, Classroom Free admissionThis event will not be livestreamedB. Thomas (Tom) Blodgett sharpening journey began in 2000. What started as a personal pursuit soon became a professional passion, leading to the founding of Jende Industries in 2004. Today, with established websites in the USA, Australia and Taiwan, Jende Industries has grown into one of the leading global providers of custom-sized sharpening stones, strops, emulsions, reed knives, tools, and chef knife rolls.Driven by a constant desire to refine craft, Tom continue to experiment and explore new sharpening techniques — sometimes succeeding, sometimes learning. For those beginning their own sharpening journey, the insights shared here may help you navigate the many twists, turns, and bits of conflicting advice you’ll encounter, and hopefully save you from a few of the mistakes he has already made along the way. Learn more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "10:00am - 11:30am"
         },
         {
             "title": "Undergraduate recital: Matthew Sousa, percussion",
             "date": "March 7",
-            "time": "10:30am - 12:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 7 10:30am - 12:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeThis event will not be livestreamedMatthew Sousa is a student of Mike Van Wirt. He is pursuing the Bachelor of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "10:30am - 12:30pm"
         },
         {
             "title": "SOLD OUT: Bluegrass Ensemble",
             "date": "March 7",
-            "time": "4:30pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 7 4:30pm - 6:30pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon This concert is sold out! Please visit Newman Center website for tickets to other Lamont events, and the Lamont Events Calendar to see the full list of upcoming events.LivestreamFREE parking: Register hereThe Lamont Bluegrass Ensemble brings the energy and spirit of Americana music to the stage with their signature blend of tradition and innovation. From driving rhythms to soulful harmonies, the ensemble showcases the roots of bluegrass while highlighting the creativity of Lamont’s talented student musicians. This lively performance promises foot-tapping tunes and heartfelt moments that celebrate the enduring power of American folk music. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:30pm"
         },
         {
             "title": "String Chamber Ensembles",
             "date": "March 7",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 7 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamHear from Lamont's finest players in the violin, viola, cello, and double bass studios. Under the direction of Igor Pikayzen. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Undergraduate recital: Alex Wong, harp",
             "date": "March 8",
-            "time": "10:30am - 12:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 8 10:30am - 12:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeThis event will not be livestreamedAlex Wong is a student of Courtney Hershey Bress. She is pursuing the Bachelor of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "10:30am - 12:30pm"
         },
         {
             "title": "Graduate recital: Delaney Schnathorst, voice",
             "date": "March 8",
-            "time": "1:30pm - 3:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 8 1:30pm - 3:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeThis event will not be livestreamedDelaney Schnathorst is a student of Heidi Melton. She is pursuing the Master of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "1:30pm - 3:30pm"
         },
         {
             "title": "Vocal Jazz Groups: Vocal Collective, The Vocal Syndicate, & Resonance",
             "date": "March 8",
-            "time": "4:30pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 8 4:30pm - 6:00pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredLivestreamVocal Jazz and Popular Music Ensembles are under the direction of Tatiana Mayfield Brown. Vocal Spectrum is comprised of several solo vocal soloists with a rhythm section.Vocal Syndicate is an elite group of three to four vocalists backed by a rhythm section who write and arrange all of their own music. Resonance group focuses on repertoire from the rhythm & blues genre. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:00pm"
         },
         {
             "title": "Lamont Composers Concert Series",
             "date": "March 8",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 8 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredLivestreamProgram to comeThe Lamont Composers Concert Series (LCCS) is a quarterly concert featuring new compositions by graduate and undergraduate students. All composition majors are invited to submit acoustic, electronic or electro-acoustic works for the LCCS each quarter. As all LCCS concerts are recorded, our compositions students are able to develop their craft while they build their portfolio. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "DU Know Your Rights",
             "date": "March 9",
-            "time": "5:00pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 9 5:00pm - 6:30pm Community Commons, Room 1800"
+            "time": "5:00pm - 6:30pm"
         },
         {
             "title": "Steel Drum Ensemble",
             "date": "March 9",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 9 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamMusic from the Caribbean and beyond. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Brown Bag/Community AI Workshop with the Dean",
             "date": "June 9",
-            "time": "12:00pm - 1:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 9 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room May 12 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room April 14 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room March 10 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room February 10 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room January 13 12:00pm - 1:00pm Engineering & Computer Science, Room 357, Seminar Room"
+            "time": "12:00pm - 1:00pm"
         },
         {
             "title": "CS Finance Meeting",
             "date": "June 9",
-            "time": "2:00pm - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 9 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room May 12 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room April 14 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room March 10 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room February 10 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room January 13 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room December 9 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room"
+            "time": "2:00pm - 3:00pm"
         },
         {
             "title": "Letters of Love Meeting",
             "date": "June 2",
-            "time": "5:30pm - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 2 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South May 19 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South May 5 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South April 21 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South April 7 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South March 17 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South March 10 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South February 24 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South February 10 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South January 27 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South January 13 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South November 11 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South October 28 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South September 30 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South September 16 5:30pm - 7:00pm Community Commons, Room 1600, Grand Forum South"
+            "time": "5:30pm - 7:00pm"
         },
         {
             "title": "Liederabend",
             "date": "March 10",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 10 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamCentered around the enchanting melodies of Gabriel Fauré and Debussy, we invite you to join us for an evening of French song. Painting pictures of pastoral scenes, ships sailing off into the horizon, and the musings of Don Quichotte, we hope to give you a new appreciation for love, seasons, and shimmering starry nights. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "E@DU 4impact Challenge Winter 2026",
             "date": "March 11",
-            "time": "3:00pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 11 3:00pm - 9:00pm Community Commons, Room 1700, Grand Forum Central"
+            "time": "3:00pm - 9:00pm"
         },
         {
             "title": "Lamont Wind Ensemble",
             "date": "March 11",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 11 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeFree parking: Register hereThe Lamont Wind Ensemble spotlights the energy and innovation of contemporary music in “Modern Movements.” From the driving rhythms of Michael Gandolfi’s Flourishes and Meditations to the sultry grooves of John Mackey’s Strange Humors—performed with guest artists Denver Dance—this program pulses with vitality. Bassoon virtuoso and Lamont professor Martin Kuuskman takes center stage in Nico Muhly’s dynamic concerto Reliable Sources. Joining forces with the Denver School of the Arts Wind Ensemble, this concert is both a celebration of modern compositional voices and an inspiring collaboration across generations. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Guest artist recital: Mendelssohn Trio",
             "date": "March 11",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 11 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admissionThis event will not be livestreamedThe Mendelssohn Trio (Erik Peterson, violin; Barbara Thiem, cello; Bryan Wallick, piano) was formed in 1988 and is named for Thiem's great grandfather Franz von Mendelssohn, a nephew of Felix Mendelssohn Bartholdy and an important supporter of artists and musicians in the Berlin of the early 20th century. The trio is in residence at Colorado State University where they give frequent concerts and work with the students on chamber music projects.In addition to concerts in the US the trio has performed on five tours to several European countries including Germany, Austria and Switzerland. In 2012 their concerts included an appearance at the International Mendelssohn Festival in Berlin. The plans for a tour in May 2026 include a program of women composers from the US and Europe. Among other venues they will be playing at the Mendelssohn Museum in Berlin and the Mendelsohn Haus in Leipzig as well as for the Maria-Anna-Mozart-Gesellschaft in Salzburg.While performing the standard repertoire of the 18th and 19th centuries the trio has made an effort to introduce its audiences to works by 20th century composers such as the Americans Muczynski, Copland and Susanne Sorkin, as well as Europeans Martinu, Bridge, Martin and Bloch, and the little known French composer Theodore Gouvy (1819-1898). This year's program is presenting Amy Beach, Cecile Chaminade, Lera Auerbach and Jennifer Higdon. Learn more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "CS Finance Meeting with Tammy & Michelle",
             "date": "May 14",
-            "time": "2:00pm - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 14 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room April 9 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room March 12 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room February 12 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room January 8 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room December 11 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room November 13 2:00pm - 3:00pm Engineering & Computer Science, Room 357, Seminar Room"
+            "time": "2:00pm - 3:00pm"
         },
         {
             "title": "Classical Guitar Ensembles",
             "date": "March 12",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 12 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamEnsembles vary in size from duos to octets, and we especially emphasize collaboration with singers and other instrumentalists. The groups cover music from the Renaissance to the present day. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Lamont Winter Colloquium",
             "date": "March 13",
-            "time": "2:30pm - 4:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 13 2:30pm - 4:00pm Newman Center for the Performing Arts, Room 229, Classroom Free admissionThis event will not be livestreamedLamont Colloquium is a forum for Lamont students, faculty, and staff to present scholarly projects they have developed in the course of their studies, and share them with the broader Lamont community. It is designed to simulate the experience of presenting at an academic conference. The format for each speaker is a 20-minute scripted presentation, followed by ten minutes for questions. Topics may be anything connected with music: Past presentations have been on topics as diverse as representation of Georgian music in Sid Meier’s Civilization, metric structures in Spanish vihuela music, and issues in twentieth-century Balinese gamelan angklung. Students often use this experience as a stepping-stone to presenting at a regional chapter conference like SMT/AMS/SEM. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "2:30pm - 4:00pm"
         },
         {
             "title": "Graduate recital: Maggie Sczekan, voice",
             "date": "March 14",
-            "time": "4:30pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 14 4:30pm - 6:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeMaggie Sczekan is a student of Cathy Kasch. She is pursuing a Master of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:30pm"
         },
         {
             "title": "Undergraduate recital: Trevor Briggs, jazz composition",
             "date": "March 14",
-            "time": "4:30pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 14 4:30pm - 6:30pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Program to comeLivestreamTrevor Briggs is a student of Remy Le Boeuf. He is pursuing a Bachelor of Music in Recording & Production. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:30pm"
         },
         {
             "title": "Undergraduate recital: Emil Tellefsen, composition",
             "date": "March 14",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 14 7:30pm - 9:30pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Program to comeLivestreamEmil Tellefsen is a student of Nathan Hall. He is pursuing the Bachelor of Music in Composition. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Graduate recital: Puting Liu, voice",
             "date": "March 14",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 14 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeLivestreamPuting Liu is a student of Catherine Kasch. He is pursuing a Master of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "IM Soccer",
             "date": "March 15",
-            "time": "4:00pm - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 15 4:00pm - 11:00pm"
+            "time": "4:00pm - 11:00pm"
         },
         {
             "title": "Graduate recital: Timothy Coffey, clarinet",
             "date": "March 15",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 15 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeLivestreamTimothy Coffey is a student of Jeremy Reynolds. He is pursuing the Master of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Varsity WBB Practice",
             "date": "March 16",
-            "time": "8:00am - 11:00am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 16 8:00am - 11:00am"
+            "time": "8:00am - 11:00am"
         },
         {
             "title": "New Hire Orientation",
             "date": "March 16",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 16 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Masterclass: David Kim, violin",
             "date": "March 16",
-            "time": "4:00pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 16 4:00pm - 6:00pm Newman Center for the Performing Arts, Hamilton Hall This masterclass will focus on solo string repertoire Free admission to observeThis event will not be livestreamedViolinist David Kim was named concertmaster of The Philadelphia Orchestra in 1999. Born in Carbondale, Illinois, in 1963, he started playing the violin at the age of three, began studies with the famed pedagogue Dorothy DeLay at the age of eight, and later received his bachelor’s and master’s degrees from the Juilliard School of Music. Read more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:00pm - 6:00pm"
         },
         {
             "title": "Undergraduate recital: Kate Kaczmarek, violin",
             "date": "March 16",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 16 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Program to comeThis event will not be livestreamedKate Kaczmarek is a student of Linda Wang. She is pursuing the Bachelor of Music in Performance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Masterclass: David Kim, violin",
             "date": "March 17",
-            "time": "10:00am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 17 10:00am - 12:00pm Newman Center for the Performing Arts, Hamilton Hall This masterclass will focus on orchestral audition excerpts Free admission to observeThis event will not be livestreamedViolinist David Kim was named concertmaster of The Philadelphia Orchestra in 1999. Born in Carbondale, Illinois, in 1963, he started playing the violin at the age of three, began studies with the famed pedagogue Dorothy DeLay at the age of eight, and later received his bachelor’s and master’s degrees from the Juilliard School of Music. Read more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "10:00am - 12:00pm"
         },
         {
             "title": "Women's Leadership Council Meeting",
             "date": "March 17",
-            "time": "11:00am - 2:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 17 11:00am - 2:00pm Daniels College of Business, 680, Schneider Board Room"
+            "time": "11:00am - 2:00pm"
         },
         {
             "title": "Rocky Mountain Color Guard",
             "date": "March 27",
-            "time": "5:00am - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 27 - March 28 5:00am - 9:00pm MAGNESS ARENA"
+            "time": "5:00am - 9:00pm"
         },
         {
             "title": "Adult Drop-In Hockey",
             "date": "March 27",
-            "time": "6:00am - 7:30am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 27 6:00am - 7:30am JOY BURNS ICE ARENA"
+            "time": "6:00am - 7:30am"
         },
         {
             "title": "MLAX vs. Georgetown",
             "date": "March 28",
-            "time": "1:00pm - 4:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 28 1:00pm - 4:00pm"
+            "time": "1:00pm - 4:00pm"
         },
         {
             "title": "School Days Off",
             "date": "March 30",
-            "time": "10:15am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 30 10:15am - 12:00pm JOY BURNS ICE ARENA March 30 9:00am - 3:00pm STAPLETON TENNIS PAVILION March 30 7:30am - 4:15pm GATES FIELD HOUSE"
+            "time": "10:15am - 12:00pm"
         },
         {
             "title": "School Days Off",
             "date": "March 31",
-            "time": "10:15am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } March 31 10:15am - 12:00pm JOY BURNS ICE ARENA March 31 9:00am - 3:00pm STAPLETON TENNIS PAVILION March 31 7:30am - 4:15pm GATES FIELD HOUSE"
+            "time": "10:15am - 12:00pm"
         },
         {
             "title": "School Days Off",
             "date": "April 1",
-            "time": "10:15am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 1 10:15am - 12:00pm JOY BURNS ICE ARENA April 1 9:00am - 3:00pm STAPLETON TENNIS PAVILION April 1 7:30am - 4:15pm GATES FIELD HOUSE"
+            "time": "10:15am - 12:00pm"
         },
         {
             "title": "Meet the Firms",
             "date": "April 1",
-            "time": "10:00am - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 1 10:00am - 7:00pm Frank H. Ricketson Law Bldg, Forum"
+            "time": "10:00am - 7:00pm"
         },
         {
             "title": "Passover Seder",
             "date": "April 1",
-            "time": "1:00pm - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 1 1:00pm - 11:00pm Community Commons, Room 1400, Global Kitchen"
+            "time": "1:00pm - 11:00pm"
         },
         {
             "title": "School Days Off",
             "date": "April 2",
-            "time": "1:00pm - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 2 1:00pm - 3:00pm JOY BURNS ICE ARENA April 2 9:00am - 3:00pm STAPLETON TENNIS PAVILION April 2 7:30am - 4:15pm GATES FIELD HOUSE"
+            "time": "1:00pm - 3:00pm"
         },
         {
             "title": "Faculty Colloquium Lunch",
             "date": "April 2",
-            "time": "11:00am - 1:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 2 11:00am - 1:00pm Frank H. Ricketson Law Bldg, Faculty Library"
+            "time": "11:00am - 1:00pm"
         },
         {
             "title": "School Days Off",
             "date": "April 3",
-            "time": "9:00am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 3 9:00am - 3:00pm STAPLETON TENNIS PAVILION April 3 7:30am - 4:15pm GATES FIELD HOUSE"
+            "time": "9:00am - 3:00pm"
         },
         {
             "title": "Faculty Recital Series: Basil Vendryes, viola & William David, piano",
             "date": "April 4",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 4 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Purchase tickets: $12, free for students & faculty ($3 fee to purchase online)Livestream Program link to comeComplimentary parkingBasil Vendryes, viola, takes the stage with pianist William David for a recital filled with beauty and soul. The program features beloved works by Brahms, the lush lyricism of Nino Rota, and more treasures for viola and piano. A longtime favorite with Denver audiences, Vendryes brings his trademark artistry and warmth to an evening of unforgettable music-making. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "First Robotics 2026",
-            "date": "April 11",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 11 MAGNESS ARENA April 9 April 6 - April 11 HAMILTON GYMNASIUM"
+            "date": "April 11"
         },
         {
             "title": "New Hire Orientation",
             "date": "April 6",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 6 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "TAI FLC",
             "date": "April 7",
-            "time": "9:30am - 11:00am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 7 9:30am - 11:00am Anderson Academic Commons, Room 340, Loft Classroom"
+            "time": "9:30am - 11:00am"
         },
         {
             "title": "Trombone Studio Recital",
             "date": "April 7",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 7 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for this performance by students from the studio of Richard Harris. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Hold for IAA Art Exhibition",
             "date": "April 9",
-            "time": "8:00am - 8:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 9 8:00am - 8:00pm Frank H. Ricketson Law Bldg, Forum"
+            "time": "8:00am - 8:00pm"
         },
         {
             "title": "DUAHL T/R",
             "date": "April 9",
-            "time": "8:30pm - 11:15pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 9 8:30pm - 11:15pm"
+            "time": "8:30pm - 11:15pm"
         },
         {
             "title": "Faculty Recital Series: Richard Harris, trombone",
             "date": "April 10",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 10 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Purchase tickets: $12, free for students & faculty ($3 fee to purchase online)Livestream Program link to comeComplimentary parkingJoin trombone professor Richard Harris for Songs My Students Taught Me, a program inspired by the passions and curiosity of his students. While teachers often select repertoire to support a student’s growth, this recital shines a light on the pieces students themselves have brought forward—music that spoke to them personally and deeply. The result is a heartfelt collection of works that celebrate the unique dialogue between teacher and student. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "LIS External Review",
             "date": "April 13",
-            "time": "7:00am - 10:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 13 - April 14 7:00am - 10:00pm Katherine A. Ruffatto Hall, Room 401, Mountain View Room April 12 3:00pm - 7:00pm Katherine A. Ruffatto Hall, Room 105, Community Board Room"
+            "time": "7:00am - 10:00pm"
         },
         {
             "title": "Guest Recital: Lynnli Wang, carillon",
             "date": "April 12",
-            "time": "5:00pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 12 5:00pm - 6:00pm Williams Carillon, Ritchie Center LawnFree admission, no ticket requiredThis performance will not be livestreamedThis recital may be enjoyed from the south courtyard next to the Ritchie Center gym off Asbury Avenue. Attendees are invited to tour the Williams Carillon after the performance.Free parking is available on High Street and hourly paid parking is in the Cable Center parking lot. Based in New York City, Lynnli Wang is a performer, teacher, and diversity and inclusion arts advocate. She currently serves as the carillonneur of the Riverside Church, where she plays its 100+ ton, 74-bell carillon. Previously, she taught at Indiana University’s (IU) Jacobs School of Music as an Associate Instructor in Carillon, where she built and taught a vibrant carillon studio, dedicated two newly renovated carillons, performed weekly recitals, collaborated with student composers, commissioned a trio of new works by female composers, and authored her second children’s book on carillons. In recognition of her dedication to making carillon accessible and exciting to performers, listeners, and composers alike, Lynnli was awarded the IU New Music Performance Award, the IU Lieber Memorial Teaching Award, the Midwestern Association of Graduate Schools Teaching Award, and one of The Diapason’s 20 Under 30 awards.Lynnli’s carillon journey began at Yale in 2011, where she completed her undergraduate studies in literature. She passed the Guild of Carillonneurs in North America (GCNA) carillonneur exam in 2014; since then, she has concertized regularly across the U.S. To advance the art of carillon, Lynnli has served on the board of the GCNA and various committees, including the Emerging Artist Grant and the Sally Slade Warner Arrangements & Transcriptions Competition Jury. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "5:00pm - 6:00pm"
         },
         {
             "title": "Trumpet Studio Recital",
             "date": "April 13",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 13 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for this performance by students from the studio of Brian Neal. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Spring Career & Internship Fair",
             "date": "April 16",
-            "time": "8:00am - 4:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 16 8:00am - 4:00pm Community Commons, Room 1600, Grand Forum South"
+            "time": "8:00am - 4:00pm"
         },
         {
             "title": "Beyond Profit: Antitrust Regulation, Market Structure, and the Boundaries of Corporate Power - Denver Law Review Symposi",
             "date": "April 17",
-            "time": "8:00am - 10:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 17 8:00am - 10:00pm Community Commons, Room 1600, Grand Forum South"
+            "time": "8:00am - 10:00pm"
         },
         {
             "title": "Interdisciplinary Games Symposium",
             "date": "April 17",
-            "time": "1:00pm - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 17 1:00pm - 5:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room"
+            "time": "1:00pm - 5:00pm"
         },
         {
             "title": "Faculty Recital Series: Brian Neal, trumpet & Cindy Lindeen-Martin, organ",
             "date": "April 17",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 17 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Purchase tickets: $12, free for students & faculty ($3 fee to purchase online)Livestream Program link to comeComplimentary parkingAcclaimed trumpeter Brian Neal and distinguished organist Cindy Lindeen-Martin present a spectacular program of mystical and triumphant melodies. These renowned international artists explore a captivating diversity of musical styles and influences, from Baroque masters like Handel and Bach, through the exuberance of Ernesto Lecuona and the mystical depths of Eastern chant. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Admissions Student Admitted Day",
             "date": "April 18",
-            "time": "5:00am - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 18 5:00am - 5:00pm April 18 5:00am - 12:00pm MAGNESS ARENA"
+            "time": "5:00am - 5:00pm"
         },
         {
             "title": "Faculty Recital Series: Stephanie Cheng, piano & Michael van Wirt, percussion",
             "date": "April 19",
-            "time": "4:30pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 19 4:30pm - 6:30pm Newman Center for the Performing Arts, Hamilton Hall Purchase tickets: $12, free for students & faculty ($3 fee to purchase online)LivestreamProgram link to comeComplimentary parkingJoin pianist Stephanie Cheng and percussionist Michael van Wirt for an electrifying evening of chamber music featuring guest performers Naomi Niskala (piano) and Mike Tetreault (percussion). The program includes Bartók’s groundbreaking Sonata for Two Pianos and Percussion, a 20th-century masterpiece of rhythm and texture. Also on the program is Michael Daugherty’s Lounge Lizards, a playful and jazz-infused work that blurs the lines between classical and popular styles. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:30pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "April 20",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 20 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Lamont Opera Theatre presents “Die Fledermaus”",
             "date": "April 23",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 23 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $20 to $40 ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingLamont Opera Theatre and the Lamont Symphony Orchestra present the sparkling wit and glamour of Johann Strauss II’s Die Fledermaus. Conducted by Lawrence Golan and directed by Matthew Plenk, this beloved operetta is filled with sweeping melodies, mistaken identities, and champagne-fueled mischief. Sung in German with spoken dialogue in English, Die Fledermaus promises an evening of charm, laughter, and unforgettable music. Don’t miss this dazzling highlight of Lamont’s spring season. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Family Weekend 2026 Hold 2",
             "date": "April 26",
-            "time": "7:00am - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 26 7:00am - 11:00pm Sturm Hall, Room 248, Sam & Freda Davis Auditorium April 25 7:00am - 11:00pm Sturm Hall, Room 248, Sam & Freda Davis Auditorium April 24 7:00am - 11:00pm Sturm Hall, Room 248, Sam & Freda Davis Auditorium"
+            "time": "7:00am - 11:00pm"
         },
         {
             "title": "The English Department Annual 5 x 5 Reading",
             "date": "April 24",
-            "time": "6:00pm - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 24 6:00pm - 11:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room"
+            "time": "6:00pm - 11:00pm"
         },
         {
             "title": "Lamont Opera Theatre presents “Die Fledermaus”",
             "date": "April 24",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 24 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $20 to $40 ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingLamont Opera Theatre and the Lamont Symphony Orchestra present the sparkling wit and glamour of Johann Strauss II’s Die Fledermaus. Conducted by Lawrence Golan and directed by Matthew Plenk, this beloved operetta is filled with sweeping melodies, mistaken identities, and champagne-fueled mischief. Sung in German with spoken dialogue in English, Die Fledermaus promises an evening of charm, laughter, and unforgettable music. Don’t miss this dazzling highlight of Lamont’s spring season. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Lamont Opera Theatre presents “Die Fledermaus”",
             "date": "April 25",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 25 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $20 to $40 ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingLamont Opera Theatre and the Lamont Symphony Orchestra present the sparkling wit and glamour of Johann Strauss II’s Die Fledermaus. Conducted by Lawrence Golan and directed by Matthew Plenk, this beloved operetta is filled with sweeping melodies, mistaken identities, and champagne-fueled mischief. Sung in German with spoken dialogue in English, Die Fledermaus promises an evening of charm, laughter, and unforgettable music. Don’t miss this dazzling highlight of Lamont’s spring season. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Lamont Opera Theatre presents “Die Fledermaus”",
             "date": "April 26",
-            "time": "2:30pm - 4:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 26 2:30pm - 4:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $20 to $40 ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingLamont Opera Theatre and the Lamont Symphony Orchestra present the sparkling wit and glamour of Johann Strauss II’s Die Fledermaus. Conducted by Lawrence Golan and directed by Matthew Plenk, this beloved operetta is filled with sweeping melodies, mistaken identities, and champagne-fueled mischief. Sung in German with spoken dialogue in English, Die Fledermaus promises an evening of charm, laughter, and unforgettable music. Don’t miss this dazzling highlight of Lamont’s spring season. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "2:30pm - 4:30pm"
         },
         {
             "title": "Lamont Jazz Orchestra at Dazzle",
             "date": "April 27",
-            "time": "6:30pm - 8:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 27 6:30pm - 8:30pm Located at Dazzle @ The Arts Complex1080 14th Street, Denver, CO, 80202MapEvent pagePurchase tickets: $18.85 for adults, $13.15 for studentsDirected by Gabriel Santiago and Remy Le Boeuf, the Lamont Jazz Orchestra (LJO) is the University of Denver's premier large jazz ensemble. Made up of five saxes, four trombones, four trumpets, piano, bass, guitar and drums, the LJO performs the standard canon of jazz literature as well as original music by students and faculty. The LJO performs on and off campus throughout the year, often with special guest artists. Guest performers have included Philip Dizack, Danielle Wertz, Wayne Bergeron, and Bob Mintzer. In recent years, LJO tied for first place at the prestigious Next Generation Jazz Festival and performed as part of the legendary Monterey Jazz Festival. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "6:30pm - 8:30pm"
         },
         {
             "title": "Harp Studio Recital",
             "date": "April 28",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 28 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for this performance by students from the studio of Courtney Hershey Bress. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Jennie's Concert: A Brass Celebration",
             "date": "April 30",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } April 30 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Free admission, no ticket requiredProgram to comeLivestream“Jennie’s Concert” is a tribute to all musicians who aspire to those qualities which allow us to be all that we can be. Jennifer Lynn Brown, who would have graduated with a Bachelor of Music in Trumpet Performance in the spring of 1998, gave us inspiration to find and use the best within ourselves. She continues to live through each of us as we reach for the stars. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "School Days Off",
             "date": "May 1",
-            "time": "10:15am - 12:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 1 10:15am - 12:00pm JOY BURNS ICE ARENA May 1 9:00am - 3:00pm STAPLETON TENNIS PAVILION May 1 7:30am - 4:15pm GATES FIELD HOUSE"
+            "time": "10:15am - 12:00pm"
         },
         {
             "title": "Masterclass: Frank London, trumpet & entrepreneurship",
             "date": "May 1",
-            "time": "11:00am - 1:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 1 11:00am - 1:00pm Newman Center for the Performing Arts, Room 140, Jazz Rehearsal Room Free admission to observeThis event will not be livestreamedFrank London will work with Lamont student klezmer ensemble KvetchUP and speak about entrepreneurship. Trumpeter/composer Frank London is a member of the Klezmatics, Hasidic New Wave, has performed with John Zorn, LL Cool J, Mel Torme, Lester Bowieπs Brass Fantasy, LaMonte Young, They Might Be Giants, David Byrne, Jane Siberry, Ben Folds 5, Mark Ribot, Maurice El Medioni and Gal Costa, and is featured on over 100 cds. His own recordings include Invocations (cantorial music); Frank London's Klezmer Brass Allstars DI SHIKERE KAPELYE and BROTHERHOOD OF BRASS; NIGUNIM and THE ZMIROS PROJECT (Jewish mystical songs, with Klezmatics vocalist Lorin Sklamberg); THE DEBT (film and theater music); THE SHEKHINA BIG BAND; the soundtrack to THE SHVITZ; the soundtrack to Perl Gluck's THE DIVAHN and four releases with the Hasidic New Wave. Read more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "11:00am - 1:00pm"
         },
         {
             "title": "Interdisciplinary Game Symposium",
             "date": "May 1",
-            "time": "12:30pm - 5:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 1 12:30pm - 5:30pm Engineering & Computer Science, Room 510, Event Space"
+            "time": "12:30pm - 5:30pm"
         },
         {
             "title": "Jazz Small Groups",
             "date": "May 1",
-            "time": "5:00pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 1 5:00pm - 6:30pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredLivestreamThe small groups directed by Peter Stoltzman and Zach Rich share what they've been working on this quarter. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "5:00pm - 6:30pm"
         },
         {
             "title": "CAPE Gala",
             "date": "May 1",
-            "time": "6:00pm - 8:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 1 6:00pm - 8:00pm Community Commons, Room 1600, Grand Forum South May 1 6:00pm - 8:00pm Community Commons, Room 1700, Grand Forum Central"
+            "time": "6:00pm - 8:00pm"
         },
         {
             "title": "Honors Concert",
             "date": "May 1",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 1 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamFeaturing the winners of our solo, ensemble and jazz honors competitions. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Gabe Bolough",
             "date": "May 2",
-            "time": "3:30pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 2 3:30pm - 6:30pm Spencer Meet the Artists Room May 2 3:30pm - 6:30pm Newman Center For The Performing Arts, Hamilton Hall"
+            "time": "3:30pm - 6:30pm"
         },
         {
             "title": "DU Pow Wow",
             "date": "May 3",
-            "time": "5:00am - 10:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 3 5:00am - 10:00pm HAMILTON GYMNASIUM"
+            "time": "5:00am - 10:00pm"
         },
         {
             "title": "Brandenburg Concertos Collaboration",
             "date": "May 3",
-            "time": "4:30pm - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 3 4:30pm - 7:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamThe Lamont Baroque Orchestra and the Colorado College Collegium will jointly perform Bach's complete Brandenburg Concertos plus four short premieres for Baroque instruments. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 7:00pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "May 4",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 4 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "TAI FLC",
             "date": "May 5",
-            "time": "9:30am - 11:00am",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 5 9:30am - 11:00am Anderson Academic Commons, Room 340, Loft Classroom"
+            "time": "9:30am - 11:00am"
         },
         {
             "title": "Cello Studio Recital",
             "date": "May 5",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 5 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for this performance by students from the studios of Dakota Cotugno, Meta Weiss, and Seoyoen Min. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Lamont Wind Ensemble",
             "date": "May 6",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 6 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingThe Lamont Wind Ensemble presents “Imagination and Industry,” a program brimming with heroic spirit and bold new sounds. Trumpet Professor Brian Neal takes the spotlight in the world premiere wind ensemble arrangement of his Emmy Award–winning Concertante, paired with Joseph Turrin’s Evensong for trumpet and winds. The evening also features Adam Schoenberg’s triumphant American Symphony and the sparkling Downey Overture by Oscar Navarro. With its blend of virtuosity, grandeur, and fresh compositional voices, this concert celebrates the artistry and innovation driving today’s wind music. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "2026 4D Symposium",
             "date": "May 8",
-            "time": "7:00am - 11:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 8 7:00am - 11:00pm Community Commons, Room 1001, Gallery May 7 - May 8 7:00am - 11:00pm Community Commons, Room 1001, Gallery"
+            "time": "7:00am - 11:00pm"
         },
         {
             "title": "2026 Sustainable Business Symposium",
             "date": "May 8",
-            "time": "8:00am - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 8 8:00am - 5:00pm Margery Reed Hall, Room 113, Reiman Theater"
+            "time": "8:00am - 5:00pm"
         },
         {
             "title": "Sustainable Business Symposium",
             "date": "May 8",
-            "time": "9:00am - 2:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 8 9:00am - 2:00pm Daniels College of Business, Room 125, Marcus Commons"
+            "time": "9:00am - 2:00pm"
         },
         {
             "title": "Jazz Small Groups",
             "date": "May 8",
-            "time": "5:00pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 8 5:00pm - 6:30pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredLivestreamThe small groups directed by Mike Abbott and Dru Heller share what they've been working on so far this quarter. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "5:00pm - 6:30pm"
         },
         {
             "title": "Faculty Recital Series: Ian Wisekal, oboe & Friends",
             "date": "May 8",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 8 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Purchase tickets: $12, free for students & faculty ($3 fee to purchase online)LivestreamProgram link to comeComplimentary parkingOboist Ian Wisekal presents a colorful and imaginative faculty recital exploring the many shades of the oboe’s voice. Joined by Jason Shafer (clarinet), Anne Breeden (piano), and composer/pianist Reggie Berg, the program features original solo works by Wisekal, charming miniatures by Germaine Tailleferre, and a new arrangement of Roger Quilter’s Where the Rainbow Ends. The evening also includes the premiere of a jazzy, genre-blending trio commissioned from Berg. With a playful thread of rainbows running throughout, this recital promises both heart and humor in equal measure. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Lamont Baroque Orchestra",
             "date": "May 9",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 9 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for the spring performance by the Lamont Baroque Orchestra! This ensemble focuses on the dramatic and expressive world of European music from the 17th and 18th centuries. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Jazz Small Groups",
             "date": "May 13",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 13 7:30pm - 9:00pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredLivestreamThe small groups directed by Gave Mervine and Bijoux Barbosa share what they've been working on this quarter. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Culture Is Pride",
             "date": "May 14",
-            "time": "11:00am - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 14 11:00am - 9:30pm Community Commons, Room 1700, Grand Forum Central"
+            "time": "11:00am - 9:30pm"
         },
         {
             "title": "Lamont Choirs",
             "date": "May 14",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 14 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingCelebrate the season with the Lamont Choirs in a joyful program featuring Vivaldi’s radiant Gloria, performed by the Lamont Chorale under the direction of Catherine Sailer. Also featured are Voces Aureas, led by Kevin Padworski, and Voces Fortes, led by Jeff Talley. A festive and uplifting close to the Lamont choral season. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "IAC Meeting",
             "date": "May 15",
-            "time": "11:00am - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 15 11:00am - 5:00pm Engineering & Computer Science, Room 357, Seminar Room"
+            "time": "11:00am - 5:00pm"
         },
         {
             "title": "Jazz & Pop Vocal Rep Ensemble & Jazz Small Group",
             "date": "May 15",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 15 7:30pm - 9:00pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredLivestreamThe Jazz & Pop Vocal Rep Ensemble is coached by Tatiana Mayfield Brown and Hannah Rodriguez. The evening will also feature a performance by the small group coached by Adam Gang. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "CPR Classical Presents The Spirituals Project Choir",
             "date": "May 16",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 16 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall A ticket is required to attend this eventPurchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online) LivestreamProgram to comeComplimentary parkingThe Spirituals Project Choir presents “Le Nouveau Spirituel: The New Spiritual.” This concert is the culminating event for The Spirituals Project’s concert season and national conference for 2026. The featured work will be Welcome Table: A Mass of Spirituals, a concert setting of the liturgical work that uses melodies of Negro Spirituals to set the text of the Roman Missal. Joining TSP Choir are the Lone Tree Symphony Orchestra and the Evergreen Chorale, performing works by Roland Carter, Rollo Dilworth, and Glenn Burleigh.Presented by CPR Classical. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Pop-Up Palooza 2026",
             "date": "May 17",
-            "time": "8:00am - 8:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 17 8:00am - 8:00pm Campus Green"
+            "time": "8:00am - 8:00pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "May 18",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 18 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Masterclass: Denise Tryon, horn",
             "date": "May 18",
-            "time": "5:00pm - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 18 5:00pm - 7:00pm Newman Center for the Performing Arts, Room 100, Vocal Rehearsal Room Free admission to observeThis event will not be livestreamedDenise Tryon began as associate professor of music in horn at the Indiana University Jacobs School of Music in 2023. She was previously professor of horn at the University of Cincinnati College-Conservatory of Music since 2018.She joined the famed American Horn Quartet as fourth horn in 2019. Previously, she was fourth horn of the Philadelphia Orchestra and held positions with the Detroit, Baltimore, Columbus, and New World Symphonies. She also served as horn professor at the Peabody Institute from 2007 to 2019. Read more. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "5:00pm - 7:00pm"
         },
         {
             "title": "Denver Quarterly Exhibit Opening Reception",
             "date": "May 20",
-            "time": "6:00pm - 8:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 20 6:00pm - 8:00pm Anderson Academic Commons, Room 340, Loft Classroom"
+            "time": "6:00pm - 8:00pm"
         },
         {
             "title": "Viola Studio Recital",
             "date": "May 20",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 20 7:30pm - 9:00pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredProgram to comeLivestreamJoin us for this performance by students from the studio of Basil Vendryes. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Wind Chamber Ensembles",
             "date": "May 20",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 20 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamHear from Lamont's finest players in the flute, oboe, clarinet, bassoon, and saxophone studios. Under the direction of Martin Kuuskmann. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Global Accessibility Awareness Day 2026",
             "date": "May 21",
-            "time": "8:00am - 4:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 21 8:00am - 4:00pm Community Commons, Room 1800 May 21 8:00am - 4:00pm Community Commons, Room 1700 May 21 8:00am - 4:00pm Community Commons, Room 1600"
+            "time": "8:00am - 4:00pm"
         },
         {
             "title": "E@DU Entrepreneurship Week Speaker",
             "date": "May 21",
-            "time": "5:00pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 21 5:00pm - 9:00pm Community Commons, Room 1700, Grand Forum Central"
+            "time": "5:00pm - 9:00pm"
         },
         {
             "title": "Xaria Siplin Reservation",
             "date": "May 24",
-            "time": "5:00pm - 8:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 24 5:00pm - 8:00pm Newman Center For The Performing Arts, Room 100, Vocal Rehearsal Room May 23 5:00pm - 8:00pm Newman Center For The Performing Arts, Room 100, Vocal Rehearsal Room May 22 5:00pm - 8:00pm Newman Center For The Performing Arts, Room 100, Vocal Rehearsal Room"
+            "time": "5:00pm - 8:00pm"
         },
         {
             "title": "Liederabend",
             "date": "May 22",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 22 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamDetails to come! For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "String Chamber Ensembles",
             "date": "May 23",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 23 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamHear from Lamont's finest players in the violin, viola, cello, and double bass studios. Under the direction of Igor Pikayzen. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Guest Recital: Annie Gao, carillon",
             "date": "May 25",
-            "time": "5:00pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 25 5:00pm - 6:00pm Williams Carillon, Ritchie Center LawnFree admission, no ticket requiredThis performance will not be livestreamedThis recital may be enjoyed from the south courtyard next to the Ritchie Center gym off Asbury Avenue. Attendees are invited to tour the Williams Carillon after the performance.Free parking is available on High Street and hourly paid parking is in the Cable Center parking lot.Annie Gao is a carillonist and software engineer from the sunny suburbs of Southern California. She first met the carillon in 2017 as a member of the Yale University Guild of Carillonneurs, completed her GCNA Carillonneur exam in 2020, and graduated from Yale in 2021 with a combined B.S./M.S. in Computer Science. She then had the tremendous privilege of continuing her carillon studies internationally with Geert D’hollander, Boudewijn Zwart, and Eddy Marien, and along the way, was selected for the quinquennial Kors Monster Festival Performance Nomination (2024), as well as The Diapason's \"20 Under 30\" list (2025). She has taught carillon performance masterclasses all over the United States, and currently serves the GCNA as chair of the Emerging Artists Grant committee and jury member of the Carillonneur Exam. In her free time, Annie enjoys competitive ping pong, puzzles and brainteasers, good reads, and opportunities to explore and improve her fascinatingly bad sense of direction. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "5:00pm - 6:00pm"
         },
         {
             "title": "Lamont Percussion Ensemble",
             "date": "May 26",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 26 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram link to comeLivestreamThe Lamont Percussion Ensemble performs traditional percussion ensemble music as well as music from today's important composers, which includes commissions specifically written for our group. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Teaching the Teachers",
             "date": "May 27",
-            "time": "7:00am - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 27 7:00am - 7:00pm Frank H. Ricketson Law Bldg, Forum"
+            "time": "7:00am - 7:00pm"
         },
         {
             "title": "DPS: South HS Graduation",
             "date": "May 28",
-            "time": "4:00pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 28 4:00pm - 9:00pm MAGNESS ARENA May 27 - May 28 4:00pm - 9:00pm MAGNESS ARENA"
+            "time": "4:00pm - 9:00pm"
         },
         {
             "title": "Lamont Symphony Orchestra",
             "date": "May 27",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 27 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingThe Lamont Symphony Orchestra closes its season with a dynamic program showcasing the next generation of musical talent. Student conductors Ke-Yuan Hsin and Bryant Denmark lead Rossini’s playful Il signor Bruschino Overture and Debussy’s luminous Clair de lune. The winner of the Honors Solo Competition takes center stage in a featured concerto performance. Conductor Lawrence Golan concludes the evening with Brahms’ radiant and pastoral Symphony No. 2. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Teaching the Teachers Law Library Conference",
             "date": "May 28",
-            "time": "7:00am - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 28 7:00am - 7:00pm Frank H. Ricketson Law Bldg, Dean's Conference Room"
+            "time": "7:00am - 7:00pm"
         },
         {
             "title": "Opera Workshop",
             "date": "May 28",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 28 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for this annual favorite presented by Lamont voice students! For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Steel Drum Ensemble",
             "date": "May 28",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 28 7:30pm - 9:00pm Newman Center for the Performing Arts, Gates Concert Hall Free admission, no ticket requiredProgram to comeLivestreamMusic from the Caribbean and beyond, under the direction of Tom Miller. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Dualstar Dance Showcase",
-            "date": "May 29",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 29 - May 31"
+            "date": "May 29"
         },
         {
             "title": "Teaching the Teachers Law Library Conference",
             "date": "May 29",
-            "time": "7:00am - 7:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 29 7:00am - 7:00pm Frank H. Ricketson Law Bldg, Forum"
+            "time": "7:00am - 7:00pm"
         },
         {
             "title": "Opera Workshop",
             "date": "May 29",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 29 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamJoin us for this annual favorite presented by Lamont voice students! For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Bluegrass Ensemble",
             "date": "May 30",
-            "time": "4:30pm - 6:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 30 4:30pm - 6:30pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Reserve tickets: Free admission, ticket required ($3 fee to reserve online)Livestream The Lamont Bluegrass Ensemble brings the energy and spirit of Americana music to the stage with their signature blend of tradition and innovation. From driving rhythms to soulful harmonies, the ensemble showcases the roots of bluegrass while highlighting the creativity of Lamont’s talented student musicians. This lively performance promises foot-tapping tunes and heartfelt moments that celebrate the enduring power of American folk music. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:30pm"
         },
         {
             "title": "Modern Music Ensemble",
             "date": "May 30",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 30 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamIn the Modern Music Ensemble, participants explore recently-written repertoire while developing entrepreneurship skills required of the 21st-century musician. Group sizes can range from duos to larger chamber ensembles. Repertoire varies from the 20th century to today, including electronic and electro-acoustic music. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Vocal Jazz Groups: Vocal Collective, The Vocal Syndicate, & Resonance",
             "date": "May 31",
-            "time": "4:30pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 31 4:30pm - 6:00pm Newman Center for the Performing Arts, Room 121, Williams Recital Salon Free admission, no ticket requiredLivestreamVocal Jazz and Popular Music Ensembles are under the direction of Tatiana Mayfield Brown. Vocal Spectrum is comprised of several solo vocal soloists with a rhythm section.Vocal Syndicate is an elite group of three to four vocalists backed by a rhythm section who write and arrange all of their own music. Resonance group focuses on repertoire from the rhythm & blues genre.For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "4:30pm - 6:00pm"
         },
         {
             "title": "Lamont Composers Concert Series",
             "date": "May 31",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } May 31 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredLivestreamProgram to comeThe Lamont Composers Concert Series (LCCS) is a quarterly concert featuring new compositions by graduate and undergraduate students. All composition majors are invited to submit acoustic, electronic or electro-acoustic works for the LCCS each quarter. As all LCCS concerts are recorded, our compositions students are able to develop their craft while they build their portfolio. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "June 1",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 1 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Classical Guitar Ensembles",
             "date": "June 1",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 1 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamEnsembles vary in size from duos to octets, and we especially emphasize collaboration with singers and other instrumentalists. The groups cover music from the Renaissance to the present day. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Lamont Jazz Orchestra",
             "date": "June 1",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 1 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingExperience the electrifying fusion of Brazilian rhythms and contemporary jazz as the Lamont Jazz Orchestra, under the direction of renowned guitarist and composer Gabriel Santiago, performs an evening of his original works. Hailed as “a young master” by JazzTimes, Santiago brings his award-winning compositions to life with intricate grooves, lush harmonies, and vibrant improvisation. Join us for a night of bold, expressive music that bridges the worlds of jazz and Brazilian tradition. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "E@DU 4impact Challenge",
             "date": "June 3",
-            "time": "4:00pm - 8:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 3 4:00pm - 8:30pm Community Commons, Room 1700, Grand Forum Central"
+            "time": "4:00pm - 8:30pm"
         },
         {
             "title": "Lamont Wind Ensemble",
             "date": "June 3",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 3 7:30pm - 9:30pm Newman Center for the Performing Arts, Gates Concert Hall Purchase tickets: $5 for reserved parterre seats, or FREE general admission ($3 fee to purchase online)LivestreamProgram to comeComplimentary parkingJoin us for \"Prism Concert,\" an innovative approach to sharing wind music. The Lamont Wind Ensemble will perform a number of engaging wind chamber works while creatively taking advantage of the Gates Hall concert space. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "ABA Environmental Law Section Conference on June 4, 2026.",
             "date": "June 4",
-            "time": "7:00am - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 4 7:00am - 5:00pm Frank H. Ricketson Law Bldg, Moot Court"
+            "time": "7:00am - 5:00pm"
         },
         {
             "title": "Kirkpatrick Prize Reception",
             "date": "June 4",
-            "time": "3:00pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 4 3:00pm - 6:00pm Anderson Academic Commons, Room 340, Loft Classroom"
+            "time": "3:00pm - 6:00pm"
         },
         {
             "title": "Piano Department Recital",
             "date": "June 4",
-            "time": "7:30pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 4 7:30pm - 9:00pm Newman Center for the Performing Arts, Hamilton Hall Free admission, no ticket requiredProgram to comeLivestreamThe piano students of Stephanie Cheng and Steven Mayer share what they've been working on this quarter. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Awards Convocation",
             "date": "June 5",
-            "time": "12:30pm - 2:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 5 12:30pm - 2:00pm Newman Center for the Performing Arts, Gates Concert Hall Free admission, no ticket requiredFor ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "12:30pm - 2:00pm"
         },
         {
             "title": "North Indian Classical Ensemble",
             "date": "June 5",
-            "time": "7:30pm - 9:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 5 7:30pm - 9:30pm Newman Center for the Performing Arts, Hamilton Hall Ticketing link to come - Free admission, ticket required ($3 fee to purchase online) Program to comeLivestreamIn the North Indian Classical Ensemble, students practice the ornate and highly refined forms of Hindustani music and Kathak dance. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "Iced Tea with Elo",
             "date": "June 8",
-            "time": "11:00am - 3:30pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 8 11:00am - 3:30pm Anderson Academic Commons 290, Gregg Kvistad Special Events"
+            "time": "11:00am - 3:30pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "June 15",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 15 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Artistic Fusion",
-            "date": "June 19",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 19 - June 20"
+            "date": "June 19"
         },
         {
             "title": "2026 ELCA Campus Ministry Conference",
             "date": "June 25",
-            "time": "8:00am - 10:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 25 - June 26 8:00am - 10:00pm Sie Complex, Room 3130 June 23 - June 25 8:00am - 10:00pm Sie Complex, Room 5025, Maglione Hall June 22 - June 26 8:00am - 10:00pm Craig Hall, Room 120, Community Room June 21 - June 26 12:00pm - 10:00am June 21 - June 26 8:00am - 10:00pm Sie Complex, Room 2110"
+            "time": "8:00am - 10:00pm"
         },
         {
             "title": "Admissions Counselor Event",
             "date": "June 28",
-            "time": "3:00pm - 9:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } June 28 3:00pm - 9:00pm HAMILTON GYMNASIUM"
+            "time": "3:00pm - 9:00pm"
         },
         {
             "title": "Guest Recital: Carol Jickling Lens, carillon",
             "date": "July 5",
-            "time": "5:00pm - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } July 5 5:00pm - 6:00pm Williams Carillon, Ritchie Center LawnFree admission, no ticket requiredThis performance will not be livestreamedThis recital may be enjoyed from the south courtyard next to the Ritchie Center gym off Asbury Avenue. Attendees are invited to tour the Williams Carillon after the performance.Free parking is available on High Street and hourly paid parking is in the Cable Center parking lot. Carol Jickling Lens began her carillon studies in 8th grade at Christ Church Cranbrook. She continued at the University of Michigan and The Netherlands Carillon School in Amersfoort, where she studied with Leen ‘t Hart, and earned both the Practical and End Diplomas. Carol became Carillonneur member of the GCNA in 1971 and was a judge and then chair of the Exam Committee for many years, sat on the Board from 1996-99 and was reelected in 2017. Carol and her family have lived in England, Ghana, New Orleans, Houston and Libya. She was appointed University Carillonneur at The University of Denver on January 5, 2010 and held the position until 2022. For ticket questions, please contact the Newman Center Box Office at 303-871-7720.For all other Lamont questions, please call 303-871-6400."
+            "time": "5:00pm - 6:00pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "July 6",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } July 6 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "2026 Organizing Institute Summer Training",
             "date": "July 7",
-            "time": "12:00pm - 12:45pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } July 7 - July 14 12:00pm - 12:45pm July 7 - July 14 12:00pm - 10:00am Craig Hall, Room 120, Community Room July 7 - July 14 8:00am - 10:00pm Sturm Hall, Room 134, Classroom"
+            "time": "12:00pm - 12:45pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "July 20",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } July 20 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "2026 Adopteen Camp",
             "date": "July 26",
-            "time": "10:00am - 6:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } July 26 10:00am - 6:00pm Sie Complex, Room 5025, Maglione Hall July 26 - July 29 9:00am - 8:00pm Sie Complex, Room 3120 July 25 12:00pm - 6:00pm Sie Complex, Room 5025, Maglione Hall July 25 - July 29 7:00am - 7:00pm July 22 - July 30 2:00pm - 10:00am"
+            "time": "10:00am - 6:00pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "August 3",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } August 3 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Colorado Libraries Wellness Conference",
             "date": "August 7",
-            "time": "8:00am - 5:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } August 7 8:00am - 5:00pm Anderson Academic Commons, Room 275, Herold Research Instruction Room"
+            "time": "8:00am - 5:00pm"
         },
         {
             "title": "CoDEO and Dance Archive - Dance, Drinks, and Dialogue",
             "date": "August 9",
-            "time": "2:00pm - 4:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } August 9 2:00pm - 4:00pm Anderson Academic Commons, Room 290, Gregg Kvistad Special Events Room"
+            "time": "2:00pm - 4:00pm"
         },
         {
             "title": "New Hire Orientation",
             "date": "August 17",
-            "time": "8:30am - 3:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } August 17 8:30am - 3:00pm Anderson Academic Commons, Room 301"
+            "time": "8:30am - 3:00pm"
         },
         {
             "title": "Faculty Colloquium Talk - Shreya Atrey",
             "date": "September 9",
-            "time": "11:00am - 1:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } September 9 11:00am - 1:00pm Frank H. Ricketson Law Bldg, Faculty Library"
+            "time": "11:00am - 1:00pm"
         },
         {
             "title": "Public Talk - Shreya Atrey",
             "date": "September 10",
-            "time": "11:00am - 2:00pm",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } September 10 11:00am - 2:00pm Frank H. Ricketson Law Bldg, Moot Court"
+            "time": "11:00am - 2:00pm"
         },
         {
             "title": "Denver Public Library - Author Series",
-            "date": "September 24",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } September 24"
+            "date": "September 24"
         },
         {
             "title": "NCPA Stage Operations - Lighting Restore",
-            "date": "September 28",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } September 28"
+            "date": "September 28"
         },
         {
             "title": "DYAO Concert",
-            "date": "October 4",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } October 4"
+            "date": "October 4"
         },
         {
             "title": "DHS Tribute Show",
-            "date": "October 10",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } October 10"
+            "date": "October 10"
         },
         {
             "title": "TEst",
-            "date": "October 17",
-            "description": "Back to Event Listing // If the user came from a different site or has referrer clicking the back button will take them to the default listing page if (document.referrer === '' || document.referrer.search('du.edu') === -1) { document.querySelector('.sub-menu__back-link').onclick = function(e) { window.location.href = 'https://www.du.edu/calendar'; } } October 17"
+            "date": "October 17"
         }
     ]
 }

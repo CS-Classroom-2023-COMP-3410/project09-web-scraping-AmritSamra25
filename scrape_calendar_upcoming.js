@@ -40,7 +40,6 @@ async function scrapeListing(startDate, endDate) {
 
   const links = new Set();
 
-  // Important: DU calendar can use relative OR absolute links
   $("a[href]").each((_, a) => {
     const href = $(a).attr("href");
     if (!href) return;
@@ -52,34 +51,82 @@ async function scrapeListing(startDate, endDate) {
   return Array.from(links);
 }
 
+function extractDateTimeText($) {
+  // Try structured time element first
+  const timeEl = $("time").first();
+  const timeText = clean(timeEl.text());
+
+  // Fallback: scan for a time range in main text
+  const mainText = clean($("main").text()) || clean($("body").text());
+  const timeMatch = mainText.match(
+    /\b\d{1,2}:\d{2}\s?(?:am|pm)\s?-\s?\d{1,2}:\d{2}\s?(?:am|pm)\b/i
+  );
+
+  const dateMatch = mainText.match(
+    /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}\b/
+  );
+
+  return {
+    date: dateMatch ? clean(dateMatch[0]) : "",
+    time: timeMatch ? clean(timeMatch[0]) : (timeText || null),
+  };
+}
+
+function extractDescription($) {
+  // DU pages vary; try several likely containers for the event body/description.
+  const candidates = [
+    // Common CMS-ish blocks:
+    ".field--name-body",
+    ".node__content .field",
+    ".event__description",
+    ".event-description",
+    ".paragraph--type--text",
+    "article .content",
+    "article .field--name-body",
+    // Generic fallback:
+    "main article",
+  ];
+
+  let best = "";
+
+  for (const sel of candidates) {
+    const el = $(sel).first();
+    if (!el.length) continue;
+
+    // Remove obvious noise elements before extracting text
+    el.find("script, style, nav, .sub-menu__back-link, .addtoany, .share, .event__meta").remove();
+
+    const t = clean(el.text());
+    if (t && t.length > best.length) best = t;
+  }
+
+  // If we still got nothing, bail
+  if (!best) return "";
+
+  // Kill the common “Back to Event Listing” junk if it slipped in
+  best = best.replace(/Back to Event Listing.*?\bJanuary\b|\bFebruary\b|\bMarch\b|\bApril\b|\bMay\b|\bJune\b|\bJuly\b|\bAugust\b|\bSeptember\b|\bOctober\b|\bNovember\b|\bDecember\b/gi, (m) => {
+    // If this triggers, it’s usually because the page has a JS snippet. Drop the whole line.
+    return "";
+  });
+
+  best = clean(best);
+
+  // If it’s still massive (recurring events dump), truncate to something sane
+  if (best.length > 600) {
+    best = best.slice(0, 600).trim() + "...";
+  }
+
+  return best;
+}
+
 async function scrapeEventPage(eventUrl) {
   const html = await fetchHtml(eventUrl);
   const $ = cheerio.load(html);
 
   const title = clean($("h1").first().text());
-  const mainText = clean($("main").text()) || clean($("body").text());
+  const { date, time } = extractDateTimeText($);
 
-  // Time range like "7:30pm - 9:00pm"
-  const timeMatch = mainText.match(
-    /\b\d{1,2}:\d{2}\s?(?:am|pm)\s?-\s?\d{1,2}:\d{2}\s?(?:am|pm)\b/i
-  );
-  const time = timeMatch ? clean(timeMatch[0]) : null;
-
-  // Date like "March 12"
-  const dateMatch = mainText.match(
-    /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}\b/
-  );
-  const date = dateMatch ? clean(dateMatch[0]) : "";
-
-  // Description chunk: between title and "Add to Calendar" (best generic heuristic)
-  let description = "";
-  if (title) {
-    const idxTitle = mainText.indexOf(title);
-    const idxAdd = mainText.toLowerCase().indexOf("add to calendar");
-    if (idxTitle !== -1 && idxAdd !== -1 && idxAdd > idxTitle) {
-      description = clean(mainText.slice(idxTitle + title.length, idxAdd));
-    }
-  }
+  const description = extractDescription($);
 
   const eventObj = { title, date };
   if (time) eventObj.time = time;
@@ -121,7 +168,7 @@ async function main() {
     try {
       const evt = await scrapeEventPage(u);
       if (evt.title && evt.date) events.push(evt);
-    } catch (e) {
+    } catch {
       // skip failures
     }
     await sleep(200);
